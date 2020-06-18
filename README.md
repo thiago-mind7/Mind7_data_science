@@ -12,7 +12,7 @@ Sou formado em Publicidade e Propaganda pela Universidade Paulista em 2006, e de
 
 Iniciei meus estudos em programação e cientista de dados em 2020.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Iniciando Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiago-penteado-579b269b)
