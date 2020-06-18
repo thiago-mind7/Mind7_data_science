@@ -9,6 +9,7 @@ Portfólio de projetos Data Science
 <sub>*Futuro Cientista de Dados*</sub>
 
 Sou formado em Publicidade e Propaganda pela Universidade Paulista em 2006, e desde então, trabalho na área do Audiovisual e Jornalismo como Operador de Camêra. Hoje trabalho na Camâra Municipal de São Paulo como Operador de Camêra Robótica.
+
 Iniciei meus estudos em programação e cientista de dados em 2020.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
