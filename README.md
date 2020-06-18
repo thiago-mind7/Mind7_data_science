@@ -1,5 +1,5 @@
 <p align="center">
   <img src="banner1.png" >
   
-# Mind7_data_science
+# Thiago Penteado - Mind7
 Portfólio de projetos Data Science
