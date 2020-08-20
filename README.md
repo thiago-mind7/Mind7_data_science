@@ -21,5 +21,5 @@ Iniciei meus estudos em programação e cientista de dados em 2020.
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Sem projetos porenquanto.**
+* **Sem projetos por enquanto.**
 ---
